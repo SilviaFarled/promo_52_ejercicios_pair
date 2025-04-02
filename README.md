@@ -32,6 +32,7 @@ git push
 ```bash
 git pull
 ```
+##### MERGE: proceso de integración de cambios de varios usuarios por parte de GIT. Cerramos con ctrl X
 
 #### Página para crear README: https://readme.so/es
 #### Página para sintaxis de README: https://markdown.es/sintaxis-markdown/
