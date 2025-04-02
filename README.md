@@ -27,6 +27,12 @@ git commit -m "Mensaje del commit"
 git push
 ```
 
+## Bajar cambios de la nube:
+
+```bash
+git pull
+```
+
 #### Página para crear README: https://readme.so/es
 #### Página para sintaxis de README: https://markdown.es/sintaxis-markdown/
 
