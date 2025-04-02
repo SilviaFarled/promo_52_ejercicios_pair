@@ -32,6 +32,14 @@ git push
 ```bash
 git pull
 ```
+
+## Comandos de logado:
+
+```bash
+git config --global user.name "María del Carmen"
+git config --global user.email "lamary@gmail.com"
+```
+
 ##### MERGE: proceso de integración de cambios de varios usuarios por parte de GIT. Cerramos con ctrl X
 
 #### Página para crear README: https://readme.so/es
