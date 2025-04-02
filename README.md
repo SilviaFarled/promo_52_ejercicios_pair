@@ -29,7 +29,10 @@ Este es un ejemplo de texto que da entrada a una lista numerada:
 3. Elemento 3
 Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla
 
-## Página para crear README: https://readme.so/es
+#### Página para crear README: https://readme.so/es
+
+
+## Comandos de actualización del git:
 
 ```bash
 #Añade todos los ficheros a git
